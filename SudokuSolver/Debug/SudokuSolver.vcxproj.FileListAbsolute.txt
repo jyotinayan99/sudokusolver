@@ -1,0 +1,5 @@
+E:\VisualStudioProjects\SudokuSolver\SudokuSolver\Debug\SudokuSolver.vcxprojAssemblyReference.cache
+E:\VisualStudioProjects\SudokuSolver\SudokuSolver\Debug\SudokuSolver.Form1.resources
+E:\VisualStudioProjects\SudokuSolver\SudokuSolver\Debug\SudokuSolver.vcxproj.GenerateResource.cache
+E:\VisualStudioProjects\SudokuSolver\SudokuSolver\Debug\SudokuSolver.exe
+E:\VisualStudioProjects\SudokuSolver\SudokuSolver\Debug\SudokuSolver.pdb
